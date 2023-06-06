@@ -12,40 +12,34 @@ import numpy as np
 import sys,copy
 
 i2cClient=I2C_Client(forceLocal=True)
-
+nTrials = 10
 
 def econt_qc(board,odir,voltage,voltageSetting,tickmark,tag=''):
 
     logging.info(f"QC TESTS")
     logging.info(f"Voltage: {voltage}, Output Directory: {odir}, Board: {board}.")
 
-    # Do a hard reset
-    logging.info(f"Hard reset")    
-    resets = ASICSignals()
-    resets.send_reset(reset='hard',i2c='ASIC')
-    resets.send_reset(reset='hard',i2c='emulator')
-
     # Initialize
     logging.info("Initialize with startup registers")
     startup()
     logging.info('\n')
-
+    print("passed initialize")
     # Set FPGA to send PRBS
     set_fpga()
-
+    print("passed fpga")
 
     # PRBS phase scan
     logging.info(f"Scan phase w PRBS err counters")
     err_counts, best_setting = scan_prbs(32,'ASIC',0.05,tickmark,voltageSetting,range(0,12),True,verbose=False,odir=odir,tag=tag)
     logging.info(f"Best phase settings found to be {str(best_setting)}")
     logging.info('\n')
-
+    print("passed prbs phase scan")
     # Other init steps
     set_phase(best_setting=','.join([str(i) for i in best_setting]))
     set_phase_of_enable(0)
     set_runbit(1)
     read_status()
-
+    print("passed other init steps")
     # Test the different track modes and train channels   
     logging.info('Testing track modes')
     for trackmode in range(1, 4):
@@ -60,6 +54,7 @@ def econt_qc(board,odir,voltage,voltageSetting,tickmark,tag=''):
         with open(f'{odir}/trackmode{trackmode}_phaseSelect_{board}board_voltage{voltageSetting}_{tickmark}.csv', 'w') as csvfile:
             writer = csv.writer(csvfile)
             writer.writerows(zip(*phaseSelect_vals))
+    print("passed track modes")
     logging.info('\n')
     
     logging.info(f"Finalized test")
@@ -110,24 +105,24 @@ if __name__ == "__main__":
 ps=Agilent3648A(host='192.168.1.50',addr=8)
 
 
-#ps.SetLimits_1(v=1.2, i=0.6)
-#p,v,i=ps.ReadPower_1()
-#print(f'Power: {"On" if int(p) else "Off"}, Voltage: {float(v):.4f} V, Current: {float(i):.4f} A')
+ps.SetLimits_1(v=1.2, i=0.6)
+p,v,i=ps.ReadPower_1()
+print(f'Power: {"On" if int(p) else "Off"}, Voltage: {float(v):.4f} V, Current: {float(i):.4f} A')
 
-#for i in range (10):
-#    econt_qc(args.board,args.odir,args.voltage,120,i,tag=_tag)
+for i in range (nTrials):
+    econt_qc(args.board,args.odir,args.voltage,120,i,tag=_tag)
 
-#ps.SetLimits_1(v=1.08, i=0.6)
-#p,v,i=ps.ReadPower_1()
-#print(f'Power: {"On" if int(p) else "Off"}, Voltage: {float(v):.4f} V, Current: {float(i):.4f} A')
+ps.SetLimits_1(v=1.08, i=0.6)
+p,v,i=ps.ReadPower_1()
+print(f'Power: {"On" if int(p) else "Off"}, Voltage: {float(v):.4f} V, Current: {float(i):.4f} A')
 #do some stuff again
 
-#for i in range (10):
-#    econt_qc(args.board,args.odir,args.voltage,108,i,tag=_tag)
+for i in range (nTrials):
+    econt_qc(args.board,args.odir,args.voltage,108,i,tag=_tag)
 
 ps.SetLimits_1(v=1.32, i=0.6)
 p,v,i=ps.ReadPower_1()
 print(f'Power: {"On" if int(p) else "Off"}, Voltage: {float(v):.4f} V, Current: {float(i):.4f} A')
 ##do some stuff again
-for i in range (10):
+for i in range (nTrials):
     econt_qc(args.board,args.odir,args.voltage,132,i,tag=_tag)
