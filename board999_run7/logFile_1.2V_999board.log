@@ -1,0 +1,1020 @@
+06-08-23 13:07:09 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:07:09 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:07:09 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:07:11 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:11 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:07:11 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:07:11 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:07:15 - Voltage 1.2 - INFO   Best phase settings found to be [8 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:07:15 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:15 - Voltage 1.2 - DEBUG  Set fixed phase 8,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:07:17 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:07:17 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:07:17 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:17 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:07:17 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:07:17 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:07:17 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:07:19 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:19 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:07:19 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:07:19 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:07:23 - Voltage 1.2 - INFO   Best phase settings found to be [8 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:07:23 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:24 - Voltage 1.2 - DEBUG  Set fixed phase 8,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:07:25 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:07:25 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:07:25 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:25 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:07:25 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:07:25 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:07:25 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:07:27 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:27 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:07:28 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:07:28 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:07:31 - Voltage 1.2 - INFO   Best phase settings found to be [8 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:07:31 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:32 - Voltage 1.2 - DEBUG  Set fixed phase 8,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:07:33 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:07:33 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:07:33 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:33 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:07:33 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:07:33 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:07:33 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:07:36 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:36 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:07:36 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:07:36 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:07:40 - Voltage 1.2 - INFO   Best phase settings found to be [8 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:07:40 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:40 - Voltage 1.2 - DEBUG  Set fixed phase 8,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:07:42 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:07:42 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:07:42 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:42 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:07:42 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:07:42 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:07:42 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:07:44 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:44 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:07:44 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:07:45 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:07:48 - Voltage 1.2 - INFO   Best phase settings found to be [8 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:07:48 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:49 - Voltage 1.2 - DEBUG  Set fixed phase 8,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:07:50 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:07:50 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:07:50 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:50 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:07:50 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:07:50 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:07:50 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:07:53 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:53 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:07:53 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:07:53 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:07:57 - Voltage 1.2 - INFO   Best phase settings found to be [8 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:07:57 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:57 - Voltage 1.2 - DEBUG  Set fixed phase 8,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:07:59 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:07:59 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:07:59 - Voltage 1.2 - INFO   
+
+06-08-23 13:07:59 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:07:59 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:07:59 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:07:59 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:08:01 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:01 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:08:01 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:08:01 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:08:05 - Voltage 1.2 - INFO   Best phase settings found to be [8 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:08:05 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:06 - Voltage 1.2 - DEBUG  Set fixed phase 8,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:08:07 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:08:07 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:08:07 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:07 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:08:07 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:08:07 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:08:07 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:08:10 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:10 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:08:10 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:08:10 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:08:14 - Voltage 1.2 - INFO   Best phase settings found to be [8 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:08:14 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:14 - Voltage 1.2 - DEBUG  Set fixed phase 8,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:08:16 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:08:16 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:08:16 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:16 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:08:16 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:08:16 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:08:16 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:08:18 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:18 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:08:18 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:08:18 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:08:22 - Voltage 1.2 - INFO   Best phase settings found to be [7 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:08:22 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:23 - Voltage 1.2 - DEBUG  Set fixed phase 7,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:08:24 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:08:24 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:08:24 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:24 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:08:24 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:08:24 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:08:24 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:08:27 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:27 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:08:27 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:08:27 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:08:30 - Voltage 1.2 - INFO   Best phase settings found to be [7 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:08:30 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:31 - Voltage 1.2 - DEBUG  Set fixed phase 7,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:08:33 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:08:33 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:08:33 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:33 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:08:33 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:08:33 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:08:33 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:08:35 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:35 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:08:35 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:08:35 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:08:39 - Voltage 1.2 - INFO   Best phase settings found to be [7 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:08:39 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:40 - Voltage 1.2 - DEBUG  Set fixed phase 7,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:08:41 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:08:41 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:08:41 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:41 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:08:41 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:08:41 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:08:41 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:08:43 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:43 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:08:44 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:08:44 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:08:47 - Voltage 1.2 - INFO   Best phase settings found to be [8 7 9 9 9 2 9 2 8 2 9 2]
+06-08-23 13:08:47 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:48 - Voltage 1.2 - DEBUG  Set fixed phase 8,7,9,9,9,2,9,2,8,2,9,2
+06-08-23 13:08:50 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:08:50 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:08:50 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:50 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:08:50 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:08:50 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:08:50 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:08:52 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:52 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:08:52 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:08:52 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:08:56 - Voltage 1.2 - INFO   Best phase settings found to be [8 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:08:56 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:56 - Voltage 1.2 - DEBUG  Set fixed phase 8,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:08:58 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:08:58 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:08:58 - Voltage 1.2 - INFO   
+
+06-08-23 13:08:58 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:08:58 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:08:58 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:08:58 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:09:00 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:00 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:09:00 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:09:01 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:09:04 - Voltage 1.2 - INFO   Best phase settings found to be [7 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:09:04 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:05 - Voltage 1.2 - DEBUG  Set fixed phase 7,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:09:06 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:09:06 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:09:06 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:06 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:09:06 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:09:06 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:09:06 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:09:09 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:09 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:09:09 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:09:09 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:09:13 - Voltage 1.2 - INFO   Best phase settings found to be [8 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:09:13 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:13 - Voltage 1.2 - DEBUG  Set fixed phase 8,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:09:15 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:09:15 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:09:15 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:15 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:09:15 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:09:15 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:09:15 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:09:17 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:17 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:09:17 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:09:17 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:09:21 - Voltage 1.2 - INFO   Best phase settings found to be [7 7 9 9 9 2 9 2 8 2 9 2]
+06-08-23 13:09:21 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:22 - Voltage 1.2 - DEBUG  Set fixed phase 7,7,9,9,9,2,9,2,8,2,9,2
+06-08-23 13:09:23 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:09:23 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:09:23 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:23 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:09:23 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:09:23 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:09:23 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:09:26 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:26 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:09:26 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:09:26 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:09:30 - Voltage 1.2 - INFO   Best phase settings found to be [7 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:09:30 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:30 - Voltage 1.2 - DEBUG  Set fixed phase 7,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:09:32 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:09:32 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:09:32 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:32 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:09:32 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:09:32 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:09:32 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:09:34 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:34 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:09:34 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:09:34 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:09:38 - Voltage 1.2 - INFO   Best phase settings found to be [7 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:09:38 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:39 - Voltage 1.2 - DEBUG  Set fixed phase 7,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:09:40 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:09:40 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:09:40 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:40 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:09:40 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:09:40 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:09:40 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:09:43 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:43 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:09:43 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:09:43 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:09:47 - Voltage 1.2 - INFO   Best phase settings found to be [7 7 9 9 9 2 9 2 8 2 9 2]
+06-08-23 13:09:47 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:47 - Voltage 1.2 - DEBUG  Set fixed phase 7,7,9,9,9,2,9,2,8,2,9,2
+06-08-23 13:09:49 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:09:49 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:09:49 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:49 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:09:49 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:09:49 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:09:49 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:09:51 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:51 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:09:51 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:09:51 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:09:55 - Voltage 1.2 - INFO   Best phase settings found to be [7 7 9 9 9 2 9 2 9 2 9 2]
+06-08-23 13:09:55 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:56 - Voltage 1.2 - DEBUG  Set fixed phase 7,7,9,9,9,2,9,2,9,2,9,2
+06-08-23 13:09:57 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:09:57 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:09:57 - Voltage 1.2 - INFO   
+
+06-08-23 13:09:57 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:09:58 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:09:58 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:09:58 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:10:00 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:00 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:10:00 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:10:00 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:10:04 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 8]
+06-08-23 13:10:04 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:05 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,8
+06-08-23 13:10:06 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:10:06 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:10:06 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:06 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:10:06 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:10:06 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:10:06 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:10:08 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:08 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:10:09 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:10:09 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:10:12 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:10:12 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:13 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:10:15 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:10:15 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:10:15 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:15 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:10:15 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:10:15 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:10:15 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:10:17 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:17 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:10:17 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:10:17 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:10:21 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:10:21 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:21 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:10:23 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:10:23 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:10:23 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:23 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:10:23 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:10:23 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:10:23 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:10:25 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:25 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:10:25 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:10:26 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:10:29 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:10:29 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:30 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:10:31 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:10:31 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:10:31 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:31 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:10:31 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:10:31 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:10:31 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:10:34 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:34 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:10:34 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:10:34 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:10:38 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 6 7]
+06-08-23 13:10:38 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:38 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,6,7
+06-08-23 13:10:40 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:10:40 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:10:40 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:40 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:10:40 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:10:40 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:10:40 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:10:42 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:42 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:10:42 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:10:42 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:10:46 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:10:46 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:47 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:10:48 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:10:48 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:10:48 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:48 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:10:48 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:10:48 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:10:48 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:10:51 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:51 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:10:51 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:10:51 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:10:55 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:10:55 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:55 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:10:57 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:10:57 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:10:57 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:57 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:10:57 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:10:57 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:10:57 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:10:59 - Voltage 1.2 - INFO   
+
+06-08-23 13:10:59 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:10:59 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:10:59 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:11:03 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:11:03 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:04 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:11:05 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:11:05 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:11:05 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:05 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:11:05 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:11:05 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:11:05 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:11:08 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:08 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:11:08 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:11:08 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:11:12 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:11:12 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:12 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:11:14 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:11:14 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:11:14 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:14 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:11:14 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:11:14 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:11:14 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:11:16 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:16 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:11:16 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:11:16 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:11:20 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:11:20 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:21 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:11:22 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:11:22 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:11:22 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:22 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:11:22 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:11:22 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:11:22 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:11:24 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:24 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:11:25 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:11:25 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:11:28 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 6 7]
+06-08-23 13:11:28 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:29 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,6,7
+06-08-23 13:11:31 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:11:31 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:11:31 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:31 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:11:31 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:11:31 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:11:31 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:11:33 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:33 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:11:33 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:11:33 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:11:37 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:11:37 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:37 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:11:39 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:11:39 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:11:39 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:39 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:11:39 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:11:39 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:11:39 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:11:41 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:41 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:11:41 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:11:42 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:11:45 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:11:45 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:46 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:11:47 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:11:47 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:11:47 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:47 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:11:47 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:11:47 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:11:47 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:11:50 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:50 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:11:50 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:11:50 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:11:54 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 6 7]
+06-08-23 13:11:54 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:54 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,6,7
+06-08-23 13:11:56 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:11:56 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:11:56 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:56 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:11:56 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:11:56 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:11:56 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:11:58 - Voltage 1.2 - INFO   
+
+06-08-23 13:11:58 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:11:58 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:11:58 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:12:02 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:12:02 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:03 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:12:04 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:12:04 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:12:04 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:04 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:12:04 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:12:04 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:12:04 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:12:07 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:07 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:12:07 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:12:07 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:12:11 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:12:11 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:11 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:12:13 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:12:13 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:12:13 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:13 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:12:13 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:12:13 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:12:13 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:12:15 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:15 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:12:15 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:12:15 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:12:19 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:12:19 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:20 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:12:21 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:12:21 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:12:21 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:21 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:12:21 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:12:21 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:12:21 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:12:24 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:24 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:12:24 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:12:24 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:12:28 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:12:28 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:28 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:12:30 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:12:30 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:12:30 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:30 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:12:30 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:12:30 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:12:30 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:12:32 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:32 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:12:32 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:12:32 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:12:36 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 6 7]
+06-08-23 13:12:36 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:37 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,6,7
+06-08-23 13:12:38 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:12:38 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:12:38 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:38 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:12:38 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:12:38 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:12:38 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:12:41 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:41 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:12:41 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:12:41 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:12:44 - Voltage 1.2 - INFO   Best phase settings found to be [5 5 7 7 7 7 7 8 6 7 7 7]
+06-08-23 13:12:44 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:45 - Voltage 1.2 - DEBUG  Set fixed phase 5,5,7,7,7,7,7,8,6,7,7,7
+06-08-23 13:12:47 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:12:47 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:12:47 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:47 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:12:47 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:12:47 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:12:47 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:12:49 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:49 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:12:50 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:12:50 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:12:53 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 6 5 6 6 6]
+06-08-23 13:12:53 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:54 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,6,5,6,6,6
+06-08-23 13:12:56 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:12:56 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:12:56 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:56 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:12:56 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:12:56 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:12:56 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:12:58 - Voltage 1.2 - INFO   
+
+06-08-23 13:12:58 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:12:58 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:12:58 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:13:02 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 6 5 6 6 6]
+06-08-23 13:13:02 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:02 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,6,5,6,6,6
+06-08-23 13:13:04 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:13:04 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:13:04 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:04 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:13:04 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:13:04 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:13:04 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:13:06 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:06 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:13:06 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:13:07 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:13:10 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 6 5 6 6 6]
+06-08-23 13:13:10 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:11 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,6,5,6,6,6
+06-08-23 13:13:12 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:13:12 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:13:12 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:12 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:13:12 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:13:12 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:13:12 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:13:15 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:15 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:13:15 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:13:15 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:13:19 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 6 5 6 6 6]
+06-08-23 13:13:19 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:19 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,6,5,6,6,6
+06-08-23 13:13:21 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:13:21 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:13:21 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:21 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:13:21 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:13:21 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:13:21 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:13:23 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:23 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:13:23 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:13:23 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:13:27 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 7 5 6 6 6]
+06-08-23 13:13:27 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:28 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,7,5,6,6,6
+06-08-23 13:13:29 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:13:29 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:13:29 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:29 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:13:29 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:13:29 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:13:29 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:13:32 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:32 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:13:32 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:13:32 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:13:36 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 6 5 6 6 6]
+06-08-23 13:13:36 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:36 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,6,5,6,6,6
+06-08-23 13:13:38 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:13:38 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:13:38 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:38 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:13:38 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:13:38 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:13:38 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:13:40 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:40 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:13:40 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:13:40 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:13:44 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 6 5 6 6 6]
+06-08-23 13:13:44 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:45 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,6,5,6,6,6
+06-08-23 13:13:46 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:13:46 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:13:46 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:46 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:13:46 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:13:46 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:13:46 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:13:49 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:49 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:13:49 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:13:49 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:13:53 - Voltage 1.2 - INFO   Best phase settings found to be [12  4  5  5  5  6  5  6  5  6  6  6]
+06-08-23 13:13:53 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:53 - Voltage 1.2 - DEBUG  Set fixed phase 12,4,5,5,5,6,5,6,5,6,6,6
+06-08-23 13:13:55 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:13:55 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:13:55 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:55 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:13:55 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:13:55 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:13:55 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:13:57 - Voltage 1.2 - INFO   
+
+06-08-23 13:13:57 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:13:57 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:13:57 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:14:01 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 6 5 6 6 6]
+06-08-23 13:14:01 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:02 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,6,5,6,6,6
+06-08-23 13:14:03 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:14:03 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:14:03 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:03 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:14:03 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:14:03 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:14:03 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:14:05 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:05 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:14:06 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:14:06 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:14:09 - Voltage 1.2 - INFO   Best phase settings found to be [12  4  5  5  5  6  5  7  5  6  6  6]
+06-08-23 13:14:09 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:10 - Voltage 1.2 - DEBUG  Set fixed phase 12,4,5,5,5,6,5,7,5,6,6,6
+06-08-23 13:14:12 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:14:12 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:14:12 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:12 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:14:12 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:14:12 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:14:12 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:14:14 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:14 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:14:14 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:14:14 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:14:18 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 6 5 6 6 6]
+06-08-23 13:14:18 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:18 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,6,5,6,6,6
+06-08-23 13:14:20 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:14:20 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:14:20 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:20 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:14:20 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:14:20 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:14:20 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:14:22 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:22 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:14:22 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:14:23 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:14:26 - Voltage 1.2 - INFO   Best phase settings found to be [12  4  5  5  5  6  5  7  5  6  6  6]
+06-08-23 13:14:26 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:27 - Voltage 1.2 - DEBUG  Set fixed phase 12,4,5,5,5,6,5,7,5,6,6,6
+06-08-23 13:14:28 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:14:28 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:14:28 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:28 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:14:28 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:14:28 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:14:28 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:14:31 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:31 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:14:31 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:14:31 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:14:35 - Voltage 1.2 - INFO   Best phase settings found to be [12  4  5  5  5  6  5  7  5  6  6  6]
+06-08-23 13:14:35 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:35 - Voltage 1.2 - DEBUG  Set fixed phase 12,4,5,5,5,6,5,7,5,6,6,6
+06-08-23 13:14:37 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:14:37 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:14:37 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:37 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:14:37 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:14:37 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:14:37 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:14:39 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:39 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:14:39 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:14:39 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:14:43 - Voltage 1.2 - INFO   Best phase settings found to be [12  4  5  5  5  6  5  7  5  6  6  7]
+06-08-23 13:14:43 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:44 - Voltage 1.2 - DEBUG  Set fixed phase 12,4,5,5,5,6,5,7,5,6,6,7
+06-08-23 13:14:45 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:14:45 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:14:45 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:45 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:14:45 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:14:45 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:14:45 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:14:48 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:48 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:14:48 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:14:48 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:14:52 - Voltage 1.2 - INFO   Best phase settings found to be [12  4  5  5  5  6  5  7  5  6  6  6]
+06-08-23 13:14:52 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:52 - Voltage 1.2 - DEBUG  Set fixed phase 12,4,5,5,5,6,5,7,5,6,6,6
+06-08-23 13:14:54 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:14:54 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:14:54 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:54 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:14:54 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:14:54 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:14:54 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:14:56 - Voltage 1.2 - INFO   
+
+06-08-23 13:14:56 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:14:56 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:14:56 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:15:00 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 7 5 6 6 6]
+06-08-23 13:15:00 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:01 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,7,5,6,6,6
+06-08-23 13:15:02 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:15:02 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:15:02 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:02 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:15:02 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:15:02 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:15:02 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:15:05 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:05 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:15:05 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:15:05 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:15:09 - Voltage 1.2 - INFO   Best phase settings found to be [12  4  5  5  5  6  5  7  5  6  6  7]
+06-08-23 13:15:09 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:09 - Voltage 1.2 - DEBUG  Set fixed phase 12,4,5,5,5,6,5,7,5,6,6,7
+06-08-23 13:15:11 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:15:11 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:15:11 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:11 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:15:11 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:15:11 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:15:11 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:15:13 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:13 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:15:13 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:15:13 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:15:17 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 7 5 6 6 7]
+06-08-23 13:15:17 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:18 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,7,5,6,6,7
+06-08-23 13:15:19 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:15:19 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:15:19 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:19 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:15:19 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:15:19 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:15:19 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:15:21 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:21 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:15:22 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:15:22 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:15:25 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 7 5 6 6 6]
+06-08-23 13:15:25 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:26 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,7,5,6,6,6
+06-08-23 13:15:28 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:15:28 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:15:28 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:28 - Voltage 1.2 - INFO   Finalized test
+06-08-23 13:15:28 - Voltage 1.2 - INFO   QC TESTS
+06-08-23 13:15:28 - Voltage 1.2 - INFO   Voltage: 1.2, Output Directory: /home/HGCAL_dev/acampbell/econt_sw/econt_sw/testing/testing/ECONT_testing/board999_run7, Board: 999.
+06-08-23 13:15:28 - Voltage 1.2 - INFO   Initialize with startup registers
+06-08-23 13:15:30 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:30 - Voltage 1.2 - DEBUG  Sending 28 bit PRBS w headers
+06-08-23 13:15:30 - Voltage 1.2 - INFO   Scan phase w PRBS err counters
+06-08-23 13:15:30 - Voltage 1.2 - DEBUG  Sending 32 bit PRBS w no header mask
+06-08-23 13:15:34 - Voltage 1.2 - INFO   Best phase settings found to be [4 4 5 5 5 6 5 7 5 6 6 6]
+06-08-23 13:15:34 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:34 - Voltage 1.2 - DEBUG  Set fixed phase 4,4,5,5,5,6,5,7,5,6,6,6
+06-08-23 13:15:36 - Voltage 1.2 - INFO   FC status_locked: 1
+06-08-23 13:15:36 - Voltage 1.2 - INFO   PUSM status: 9
+06-08-23 13:15:36 - Voltage 1.2 - INFO   
+
+06-08-23 13:15:36 - Voltage 1.2 - INFO   Finalized test
